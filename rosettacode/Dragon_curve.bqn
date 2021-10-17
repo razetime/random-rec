@@ -1,0 +1,5 @@
+# JS BQN only, for now.
+Rot ← ¬⊸{-⌾(𝕨⊸⊑)⌽𝕩}
+Turns ← {{𝕩∾1∾¬⌾((⌊2÷˜≠)⊸⊑)𝕩}⍟𝕩 ⥊1}
+
+•Plot´ <˘⍉>+` (<0‿1)(Rot˜)`Turns 3
