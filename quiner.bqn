@@ -1,6 +1,6 @@
 #!/usr/bin/env cbqn
 
-# Quiner interpreter
+# Quiner interpreter (https://esolangs.org/wiki/Quiner)
 # run with ./BQN quiner.bqn <flags>
 # or cbqn quiner.bqn <flags>
 
