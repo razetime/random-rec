@@ -7,8 +7,8 @@
 "ERROR: No arguments given. Use -h for help." ! 0≠≠•args
 input ← {
   "-h": •Out "  -h            displays this help
-  -f ""<file>"" run a file
-  -c ""<code>"" run some code"
+  -f '<file>' run a file
+  -c '<code>' run some code"
   •Exit@;
   "-f": "ERROR: No file given"!1<≠•args
   •FChars 1⊑•args;
