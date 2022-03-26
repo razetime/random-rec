@@ -1,0 +1,894 @@
+<svg version="1.1" baseProfile="full" width="576" height="432" viewBox="0 0 4320 3240"  xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events" >
+ <title>Mandelbrot Set</title>
+<desc>Created by Causeway SVG engine - SharpPlot v3.71.0</desc>
+<g stroke-miterlimit="100">
+<desc>Paint the paper =====</desc>
+ <g fill="White" >
+  <rect x="0" y="0" width="4320" height="3240" />
+ </g>
+<desc>Border =====</desc>
+<desc>Region =====</desc>
+<desc>X-Axis Ticks =====</desc>
+<desc>X-Axis tickmarks</desc>
+ <path fill="none" stroke-width="7.2" stroke="Black" d="M400 2720L400 2764M770 2720L770 2764M1140 2720L1140 2764M1510 2720L1510 2764M1880 2720L1880 2764M2250 2720L2250 2764M2620 2720L2620 2764M2990 2720L2990 2764M3360 2720L3360 2764M3730 2720L3730 2764M4100 2720L4100 2764"/>
+<desc>Y-Axis Ticks =====</desc>
+<desc>Y-Axis tickmarks</desc>
+ <path fill="none" stroke-width="7.2" stroke="Black" d="M400 2720L367 2720M400 2343L367 2343M400 1967L367 1967M400 1590L367 1590M400 1213L367 1213M400 837L367 837M400 460L367 460"/>
+<desc>Axes =====</desc>
+ <path fill="none" stroke-width="12" stroke="Black" d="M400 2764L400 416M356 2720L4144 2720"/>
+<desc>Y-axis labels</desc>
+ <g font-family="Times New Roman" font-size="80" text-anchor="end" >
+  <text x="335" y="2740" >-2</text>
+  <text x="335" y="2363" >-1.5</text>
+  <text x="335" y="1987" >-1</text>
+  <text x="335" y="1610" >-0.5</text>
+  <text x="335" y="1233" >0</text>
+  <text x="335" y="857" >0.5</text>
+  <text x="335" y="480" >1</text>
+ </g>
+<desc>for X-axis labels</desc>
+ <g font-family="Times New Roman" font-size="80" text-anchor="middle" >
+  <text x="400" y="2844" >-1</text>
+  <text x="770" y="2844" >-0.8</text>
+  <text x="1140" y="2844" >-0.6</text>
+  <text x="1510" y="2844" >-0.4</text>
+  <text x="1880" y="2844" >-0.2</text>
+  <text x="2250" y="2844" >0</text>
+  <text x="2620" y="2844" >0.2</text>
+  <text x="2990" y="2844" >0.4</text>
+  <text x="3360" y="2844" >0.6</text>
+  <text x="3730" y="2844" >0.8</text>
+  <text x="4100" y="2844" >1</text>
+ </g>
+<desc>Heading, subheading and footnotes =====</desc>
+<desc>Heading</desc>
+ <g fill="Navy" font-family="Times New Roman" font-size="180" text-anchor="middle" >
+  <text x="2160" y="292" >Mandelbrot Set</text>
+ </g>
+<desc>Start of Line Chart ===========</desc>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#020202" stroke="White" >
+  <circle cx="585" cy="2645" r="15" />
+  <circle cx="770" cy="2645" r="15" />
+  <circle cx="955" cy="2645" r="15" />
+  <circle cx="3545" cy="2645" r="15" />
+  <circle cx="3730" cy="2645" r="15" />
+  <circle cx="3915" cy="2645" r="15" />
+  <circle cx="4100" cy="2645" r="15" />
+  <circle cx="585" cy="2569" r="15" />
+  <circle cx="3915" cy="2569" r="15" />
+  <circle cx="4100" cy="2569" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#030303" stroke="White" >
+  <circle cx="1140" cy="2645" r="15" />
+  <circle cx="1325" cy="2645" r="15" />
+  <circle cx="3175" cy="2645" r="15" />
+  <circle cx="3360" cy="2645" r="15" />
+  <circle cx="770" cy="2569" r="15" />
+  <circle cx="955" cy="2569" r="15" />
+  <circle cx="3545" cy="2569" r="15" />
+  <circle cx="3730" cy="2569" r="15" />
+  <circle cx="585" cy="2494" r="15" />
+  <circle cx="3915" cy="2494" r="15" />
+  <circle cx="4100" cy="2494" r="15" />
+  <circle cx="4100" cy="2419" r="15" />
+  <circle cx="4100" cy="2343" r="15" />
+  <circle cx="4100" cy="837" r="15" />
+  <circle cx="4100" cy="761" r="15" />
+  <circle cx="585" cy="686" r="15" />
+  <circle cx="3915" cy="686" r="15" />
+  <circle cx="4100" cy="686" r="15" />
+  <circle cx="585" cy="611" r="15" />
+  <circle cx="770" cy="611" r="15" />
+  <circle cx="955" cy="611" r="15" />
+  <circle cx="3545" cy="611" r="15" />
+  <circle cx="3730" cy="611" r="15" />
+  <circle cx="3915" cy="611" r="15" />
+  <circle cx="4100" cy="611" r="15" />
+  <circle cx="585" cy="535" r="15" />
+  <circle cx="770" cy="535" r="15" />
+  <circle cx="955" cy="535" r="15" />
+  <circle cx="1140" cy="535" r="15" />
+  <circle cx="1325" cy="535" r="15" />
+  <circle cx="3175" cy="535" r="15" />
+  <circle cx="3360" cy="535" r="15" />
+  <circle cx="3545" cy="535" r="15" />
+  <circle cx="3730" cy="535" r="15" />
+  <circle cx="3915" cy="535" r="15" />
+  <circle cx="4100" cy="535" r="15" />
+  <circle cx="585" cy="460" r="15" />
+  <circle cx="770" cy="460" r="15" />
+  <circle cx="955" cy="460" r="15" />
+  <circle cx="1140" cy="460" r="15" />
+  <circle cx="1325" cy="460" r="15" />
+  <circle cx="1510" cy="460" r="15" />
+  <circle cx="1695" cy="460" r="15" />
+  <circle cx="1880" cy="460" r="15" />
+  <circle cx="2065" cy="460" r="15" />
+  <circle cx="2435" cy="460" r="15" />
+  <circle cx="2620" cy="460" r="15" />
+  <circle cx="2805" cy="460" r="15" />
+  <circle cx="2990" cy="460" r="15" />
+  <circle cx="3175" cy="460" r="15" />
+  <circle cx="3360" cy="460" r="15" />
+  <circle cx="3545" cy="460" r="15" />
+  <circle cx="3730" cy="460" r="15" />
+  <circle cx="3915" cy="460" r="15" />
+  <circle cx="4100" cy="460" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#040404" stroke="White" >
+  <circle cx="1510" cy="2645" r="15" />
+  <circle cx="1695" cy="2645" r="15" />
+  <circle cx="2805" cy="2645" r="15" />
+  <circle cx="2990" cy="2645" r="15" />
+  <circle cx="1140" cy="2569" r="15" />
+  <circle cx="1325" cy="2569" r="15" />
+  <circle cx="1510" cy="2569" r="15" />
+  <circle cx="2990" cy="2569" r="15" />
+  <circle cx="3175" cy="2569" r="15" />
+  <circle cx="3360" cy="2569" r="15" />
+  <circle cx="770" cy="2494" r="15" />
+  <circle cx="955" cy="2494" r="15" />
+  <circle cx="1140" cy="2494" r="15" />
+  <circle cx="1325" cy="2494" r="15" />
+  <circle cx="1510" cy="2494" r="15" />
+  <circle cx="2990" cy="2494" r="15" />
+  <circle cx="3175" cy="2494" r="15" />
+  <circle cx="3360" cy="2494" r="15" />
+  <circle cx="3545" cy="2494" r="15" />
+  <circle cx="3730" cy="2494" r="15" />
+  <circle cx="585" cy="2419" r="15" />
+  <circle cx="770" cy="2419" r="15" />
+  <circle cx="955" cy="2419" r="15" />
+  <circle cx="1140" cy="2419" r="15" />
+  <circle cx="1325" cy="2419" r="15" />
+  <circle cx="1510" cy="2419" r="15" />
+  <circle cx="2990" cy="2419" r="15" />
+  <circle cx="3175" cy="2419" r="15" />
+  <circle cx="3360" cy="2419" r="15" />
+  <circle cx="3545" cy="2419" r="15" />
+  <circle cx="3730" cy="2419" r="15" />
+  <circle cx="3915" cy="2419" r="15" />
+  <circle cx="585" cy="2343" r="15" />
+  <circle cx="770" cy="2343" r="15" />
+  <circle cx="955" cy="2343" r="15" />
+  <circle cx="1140" cy="2343" r="15" />
+  <circle cx="1325" cy="2343" r="15" />
+  <circle cx="3175" cy="2343" r="15" />
+  <circle cx="3360" cy="2343" r="15" />
+  <circle cx="3545" cy="2343" r="15" />
+  <circle cx="3730" cy="2343" r="15" />
+  <circle cx="3915" cy="2343" r="15" />
+  <circle cx="585" cy="2268" r="15" />
+  <circle cx="770" cy="2268" r="15" />
+  <circle cx="955" cy="2268" r="15" />
+  <circle cx="1140" cy="2268" r="15" />
+  <circle cx="1325" cy="2268" r="15" />
+  <circle cx="3175" cy="2268" r="15" />
+  <circle cx="3360" cy="2268" r="15" />
+  <circle cx="3545" cy="2268" r="15" />
+  <circle cx="3730" cy="2268" r="15" />
+  <circle cx="3915" cy="2268" r="15" />
+  <circle cx="4100" cy="2268" r="15" />
+  <circle cx="585" cy="2193" r="15" />
+  <circle cx="770" cy="2193" r="15" />
+  <circle cx="955" cy="2193" r="15" />
+  <circle cx="1140" cy="2193" r="15" />
+  <circle cx="3360" cy="2193" r="15" />
+  <circle cx="3545" cy="2193" r="15" />
+  <circle cx="3730" cy="2193" r="15" />
+  <circle cx="3915" cy="2193" r="15" />
+  <circle cx="4100" cy="2193" r="15" />
+  <circle cx="585" cy="2117" r="15" />
+  <circle cx="770" cy="2117" r="15" />
+  <circle cx="955" cy="2117" r="15" />
+  <circle cx="1140" cy="2117" r="15" />
+  <circle cx="3360" cy="2117" r="15" />
+  <circle cx="3545" cy="2117" r="15" />
+  <circle cx="3730" cy="2117" r="15" />
+  <circle cx="3915" cy="2117" r="15" />
+  <circle cx="4100" cy="2117" r="15" />
+  <circle cx="585" cy="2042" r="15" />
+  <circle cx="770" cy="2042" r="15" />
+  <circle cx="955" cy="2042" r="15" />
+  <circle cx="3545" cy="2042" r="15" />
+  <circle cx="3730" cy="2042" r="15" />
+  <circle cx="3915" cy="2042" r="15" />
+  <circle cx="4100" cy="2042" r="15" />
+  <circle cx="585" cy="1967" r="15" />
+  <circle cx="770" cy="1967" r="15" />
+  <circle cx="3730" cy="1967" r="15" />
+  <circle cx="3915" cy="1967" r="15" />
+  <circle cx="4100" cy="1967" r="15" />
+  <circle cx="585" cy="1891" r="15" />
+  <circle cx="3915" cy="1891" r="15" />
+  <circle cx="4100" cy="1891" r="15" />
+  <circle cx="4100" cy="1816" r="15" />
+  <circle cx="4100" cy="1741" r="15" />
+  <circle cx="4100" cy="987" r="15" />
+  <circle cx="585" cy="912" r="15" />
+  <circle cx="3915" cy="912" r="15" />
+  <circle cx="4100" cy="912" r="15" />
+  <circle cx="585" cy="837" r="15" />
+  <circle cx="770" cy="837" r="15" />
+  <circle cx="3730" cy="837" r="15" />
+  <circle cx="3915" cy="837" r="15" />
+  <circle cx="585" cy="761" r="15" />
+  <circle cx="770" cy="761" r="15" />
+  <circle cx="955" cy="761" r="15" />
+  <circle cx="1140" cy="761" r="15" />
+  <circle cx="1325" cy="761" r="15" />
+  <circle cx="3175" cy="761" r="15" />
+  <circle cx="3360" cy="761" r="15" />
+  <circle cx="3545" cy="761" r="15" />
+  <circle cx="3730" cy="761" r="15" />
+  <circle cx="3915" cy="761" r="15" />
+  <circle cx="770" cy="686" r="15" />
+  <circle cx="955" cy="686" r="15" />
+  <circle cx="1140" cy="686" r="15" />
+  <circle cx="1325" cy="686" r="15" />
+  <circle cx="1510" cy="686" r="15" />
+  <circle cx="1695" cy="686" r="15" />
+  <circle cx="1880" cy="686" r="15" />
+  <circle cx="2065" cy="686" r="15" />
+  <circle cx="2250" cy="686" r="15" />
+  <circle cx="2435" cy="686" r="15" />
+  <circle cx="2620" cy="686" r="15" />
+  <circle cx="2805" cy="686" r="15" />
+  <circle cx="2990" cy="686" r="15" />
+  <circle cx="3175" cy="686" r="15" />
+  <circle cx="3360" cy="686" r="15" />
+  <circle cx="3545" cy="686" r="15" />
+  <circle cx="3730" cy="686" r="15" />
+  <circle cx="1140" cy="611" r="15" />
+  <circle cx="1325" cy="611" r="15" />
+  <circle cx="1510" cy="611" r="15" />
+  <circle cx="1695" cy="611" r="15" />
+  <circle cx="1880" cy="611" r="15" />
+  <circle cx="2065" cy="611" r="15" />
+  <circle cx="2250" cy="611" r="15" />
+  <circle cx="2435" cy="611" r="15" />
+  <circle cx="2620" cy="611" r="15" />
+  <circle cx="2805" cy="611" r="15" />
+  <circle cx="2990" cy="611" r="15" />
+  <circle cx="3175" cy="611" r="15" />
+  <circle cx="3360" cy="611" r="15" />
+  <circle cx="1510" cy="535" r="15" />
+  <circle cx="1695" cy="535" r="15" />
+  <circle cx="1880" cy="535" r="15" />
+  <circle cx="2065" cy="535" r="15" />
+  <circle cx="2250" cy="535" r="15" />
+  <circle cx="2435" cy="535" r="15" />
+  <circle cx="2620" cy="535" r="15" />
+  <circle cx="2805" cy="535" r="15" />
+  <circle cx="2990" cy="535" r="15" />
+  <circle cx="2250" cy="460" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#050505" stroke="White" >
+  <circle cx="1880" cy="2645" r="15" />
+  <circle cx="2065" cy="2645" r="15" />
+  <circle cx="2435" cy="2645" r="15" />
+  <circle cx="2620" cy="2645" r="15" />
+  <circle cx="1695" cy="2569" r="15" />
+  <circle cx="1880" cy="2569" r="15" />
+  <circle cx="2065" cy="2569" r="15" />
+  <circle cx="2435" cy="2569" r="15" />
+  <circle cx="2620" cy="2569" r="15" />
+  <circle cx="2805" cy="2569" r="15" />
+  <circle cx="1695" cy="2494" r="15" />
+  <circle cx="1880" cy="2494" r="15" />
+  <circle cx="2620" cy="2494" r="15" />
+  <circle cx="2805" cy="2494" r="15" />
+  <circle cx="1695" cy="2419" r="15" />
+  <circle cx="2805" cy="2419" r="15" />
+  <circle cx="1510" cy="2343" r="15" />
+  <circle cx="2990" cy="2343" r="15" />
+  <circle cx="1325" cy="2193" r="15" />
+  <circle cx="3175" cy="2193" r="15" />
+  <circle cx="1140" cy="2042" r="15" />
+  <circle cx="3360" cy="2042" r="15" />
+  <circle cx="955" cy="1967" r="15" />
+  <circle cx="1140" cy="1967" r="15" />
+  <circle cx="3360" cy="1967" r="15" />
+  <circle cx="3545" cy="1967" r="15" />
+  <circle cx="770" cy="1891" r="15" />
+  <circle cx="955" cy="1891" r="15" />
+  <circle cx="3545" cy="1891" r="15" />
+  <circle cx="3730" cy="1891" r="15" />
+  <circle cx="585" cy="1816" r="15" />
+  <circle cx="770" cy="1816" r="15" />
+  <circle cx="955" cy="1816" r="15" />
+  <circle cx="3545" cy="1816" r="15" />
+  <circle cx="3730" cy="1816" r="15" />
+  <circle cx="3915" cy="1816" r="15" />
+  <circle cx="585" cy="1741" r="15" />
+  <circle cx="770" cy="1741" r="15" />
+  <circle cx="3730" cy="1741" r="15" />
+  <circle cx="3915" cy="1741" r="15" />
+  <circle cx="585" cy="1665" r="15" />
+  <circle cx="770" cy="1665" r="15" />
+  <circle cx="3730" cy="1665" r="15" />
+  <circle cx="3915" cy="1665" r="15" />
+  <circle cx="4100" cy="1665" r="15" />
+  <circle cx="585" cy="1590" r="15" />
+  <circle cx="3915" cy="1590" r="15" />
+  <circle cx="4100" cy="1590" r="15" />
+  <circle cx="4100" cy="1515" r="15" />
+  <circle cx="4100" cy="1138" r="15" />
+  <circle cx="585" cy="1063" r="15" />
+  <circle cx="3915" cy="1063" r="15" />
+  <circle cx="4100" cy="1063" r="15" />
+  <circle cx="585" cy="987" r="15" />
+  <circle cx="3915" cy="987" r="15" />
+  <circle cx="770" cy="912" r="15" />
+  <circle cx="3730" cy="912" r="15" />
+  <circle cx="955" cy="837" r="15" />
+  <circle cx="1140" cy="837" r="15" />
+  <circle cx="3360" cy="837" r="15" />
+  <circle cx="3545" cy="837" r="15" />
+  <circle cx="1510" cy="761" r="15" />
+  <circle cx="1695" cy="761" r="15" />
+  <circle cx="1880" cy="761" r="15" />
+  <circle cx="2065" cy="761" r="15" />
+  <circle cx="2250" cy="761" r="15" />
+  <circle cx="2435" cy="761" r="15" />
+  <circle cx="2620" cy="761" r="15" />
+  <circle cx="2805" cy="761" r="15" />
+  <circle cx="2990" cy="761" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#505050" stroke="White" >
+  <circle cx="2250" cy="2645" r="15" />
+  <circle cx="2250" cy="2569" r="15" />
+  <circle cx="2250" cy="2494" r="15" />
+  <circle cx="2250" cy="2419" r="15" />
+  <circle cx="2250" cy="2343" r="15" />
+  <circle cx="2250" cy="2268" r="15" />
+  <circle cx="2250" cy="2193" r="15" />
+  <circle cx="2065" cy="2117" r="15" />
+  <circle cx="2250" cy="2117" r="15" />
+  <circle cx="2435" cy="2117" r="15" />
+  <circle cx="1880" cy="2042" r="15" />
+  <circle cx="2065" cy="2042" r="15" />
+  <circle cx="2250" cy="2042" r="15" />
+  <circle cx="2435" cy="2042" r="15" />
+  <circle cx="2620" cy="2042" r="15" />
+  <circle cx="1880" cy="1967" r="15" />
+  <circle cx="2065" cy="1967" r="15" />
+  <circle cx="2250" cy="1967" r="15" />
+  <circle cx="2435" cy="1967" r="15" />
+  <circle cx="2620" cy="1967" r="15" />
+  <circle cx="1880" cy="1891" r="15" />
+  <circle cx="2065" cy="1891" r="15" />
+  <circle cx="2250" cy="1891" r="15" />
+  <circle cx="2435" cy="1891" r="15" />
+  <circle cx="2620" cy="1891" r="15" />
+  <circle cx="2065" cy="1816" r="15" />
+  <circle cx="2250" cy="1816" r="15" />
+  <circle cx="2435" cy="1816" r="15" />
+  <circle cx="1880" cy="1741" r="15" />
+  <circle cx="2065" cy="1741" r="15" />
+  <circle cx="2250" cy="1741" r="15" />
+  <circle cx="2435" cy="1741" r="15" />
+  <circle cx="2620" cy="1741" r="15" />
+  <circle cx="1510" cy="1665" r="15" />
+  <circle cx="1695" cy="1665" r="15" />
+  <circle cx="1880" cy="1665" r="15" />
+  <circle cx="2065" cy="1665" r="15" />
+  <circle cx="2250" cy="1665" r="15" />
+  <circle cx="2435" cy="1665" r="15" />
+  <circle cx="2620" cy="1665" r="15" />
+  <circle cx="2805" cy="1665" r="15" />
+  <circle cx="2990" cy="1665" r="15" />
+  <circle cx="1140" cy="1590" r="15" />
+  <circle cx="1325" cy="1590" r="15" />
+  <circle cx="1510" cy="1590" r="15" />
+  <circle cx="1695" cy="1590" r="15" />
+  <circle cx="1880" cy="1590" r="15" />
+  <circle cx="2065" cy="1590" r="15" />
+  <circle cx="2250" cy="1590" r="15" />
+  <circle cx="2435" cy="1590" r="15" />
+  <circle cx="2620" cy="1590" r="15" />
+  <circle cx="2805" cy="1590" r="15" />
+  <circle cx="2990" cy="1590" r="15" />
+  <circle cx="3175" cy="1590" r="15" />
+  <circle cx="3360" cy="1590" r="15" />
+  <circle cx="1325" cy="1515" r="15" />
+  <circle cx="1510" cy="1515" r="15" />
+  <circle cx="1695" cy="1515" r="15" />
+  <circle cx="1880" cy="1515" r="15" />
+  <circle cx="2065" cy="1515" r="15" />
+  <circle cx="2250" cy="1515" r="15" />
+  <circle cx="2435" cy="1515" r="15" />
+  <circle cx="2620" cy="1515" r="15" />
+  <circle cx="2805" cy="1515" r="15" />
+  <circle cx="2990" cy="1515" r="15" />
+  <circle cx="3175" cy="1515" r="15" />
+  <circle cx="1140" cy="1439" r="15" />
+  <circle cx="1325" cy="1439" r="15" />
+  <circle cx="1510" cy="1439" r="15" />
+  <circle cx="1695" cy="1439" r="15" />
+  <circle cx="1880" cy="1439" r="15" />
+  <circle cx="2065" cy="1439" r="15" />
+  <circle cx="2250" cy="1439" r="15" />
+  <circle cx="2435" cy="1439" r="15" />
+  <circle cx="2620" cy="1439" r="15" />
+  <circle cx="2805" cy="1439" r="15" />
+  <circle cx="2990" cy="1439" r="15" />
+  <circle cx="3175" cy="1439" r="15" />
+  <circle cx="3360" cy="1439" r="15" />
+  <circle cx="770" cy="1364" r="15" />
+  <circle cx="955" cy="1364" r="15" />
+  <circle cx="1140" cy="1364" r="15" />
+  <circle cx="1325" cy="1364" r="15" />
+  <circle cx="1510" cy="1364" r="15" />
+  <circle cx="1695" cy="1364" r="15" />
+  <circle cx="1880" cy="1364" r="15" />
+  <circle cx="2065" cy="1364" r="15" />
+  <circle cx="2250" cy="1364" r="15" />
+  <circle cx="2435" cy="1364" r="15" />
+  <circle cx="2620" cy="1364" r="15" />
+  <circle cx="2805" cy="1364" r="15" />
+  <circle cx="2990" cy="1364" r="15" />
+  <circle cx="3175" cy="1364" r="15" />
+  <circle cx="3360" cy="1364" r="15" />
+  <circle cx="3545" cy="1364" r="15" />
+  <circle cx="3730" cy="1364" r="15" />
+  <circle cx="770" cy="1289" r="15" />
+  <circle cx="955" cy="1289" r="15" />
+  <circle cx="1140" cy="1289" r="15" />
+  <circle cx="1325" cy="1289" r="15" />
+  <circle cx="1510" cy="1289" r="15" />
+  <circle cx="1695" cy="1289" r="15" />
+  <circle cx="1880" cy="1289" r="15" />
+  <circle cx="2065" cy="1289" r="15" />
+  <circle cx="2250" cy="1289" r="15" />
+  <circle cx="2435" cy="1289" r="15" />
+  <circle cx="2620" cy="1289" r="15" />
+  <circle cx="2805" cy="1289" r="15" />
+  <circle cx="2990" cy="1289" r="15" />
+  <circle cx="3175" cy="1289" r="15" />
+  <circle cx="3360" cy="1289" r="15" />
+  <circle cx="3545" cy="1289" r="15" />
+  <circle cx="3730" cy="1289" r="15" />
+  <circle cx="1140" cy="1213" r="15" />
+  <circle cx="1325" cy="1213" r="15" />
+  <circle cx="1510" cy="1213" r="15" />
+  <circle cx="1695" cy="1213" r="15" />
+  <circle cx="1880" cy="1213" r="15" />
+  <circle cx="2065" cy="1213" r="15" />
+  <circle cx="2250" cy="1213" r="15" />
+  <circle cx="2435" cy="1213" r="15" />
+  <circle cx="2620" cy="1213" r="15" />
+  <circle cx="2805" cy="1213" r="15" />
+  <circle cx="2990" cy="1213" r="15" />
+  <circle cx="3175" cy="1213" r="15" />
+  <circle cx="3360" cy="1213" r="15" />
+  <circle cx="4100" cy="1213" r="15" />
+  <circle cx="1140" cy="1138" r="15" />
+  <circle cx="1325" cy="1138" r="15" />
+  <circle cx="1510" cy="1138" r="15" />
+  <circle cx="1695" cy="1138" r="15" />
+  <circle cx="1880" cy="1138" r="15" />
+  <circle cx="2065" cy="1138" r="15" />
+  <circle cx="2250" cy="1138" r="15" />
+  <circle cx="2435" cy="1138" r="15" />
+  <circle cx="2620" cy="1138" r="15" />
+  <circle cx="2805" cy="1138" r="15" />
+  <circle cx="2990" cy="1138" r="15" />
+  <circle cx="3175" cy="1138" r="15" />
+  <circle cx="3360" cy="1138" r="15" />
+  <circle cx="1325" cy="1063" r="15" />
+  <circle cx="1510" cy="1063" r="15" />
+  <circle cx="1695" cy="1063" r="15" />
+  <circle cx="1880" cy="1063" r="15" />
+  <circle cx="2065" cy="1063" r="15" />
+  <circle cx="2250" cy="1063" r="15" />
+  <circle cx="2435" cy="1063" r="15" />
+  <circle cx="2620" cy="1063" r="15" />
+  <circle cx="2805" cy="1063" r="15" />
+  <circle cx="2990" cy="1063" r="15" />
+  <circle cx="3175" cy="1063" r="15" />
+  <circle cx="1325" cy="987" r="15" />
+  <circle cx="1510" cy="987" r="15" />
+  <circle cx="1695" cy="987" r="15" />
+  <circle cx="1880" cy="987" r="15" />
+  <circle cx="2065" cy="987" r="15" />
+  <circle cx="2435" cy="987" r="15" />
+  <circle cx="2620" cy="987" r="15" />
+  <circle cx="2805" cy="987" r="15" />
+  <circle cx="2990" cy="987" r="15" />
+  <circle cx="3175" cy="987" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#070707" stroke="White" >
+  <circle cx="2065" cy="2494" r="15" />
+  <circle cx="2435" cy="2494" r="15" />
+  <circle cx="2065" cy="2419" r="15" />
+  <circle cx="2435" cy="2419" r="15" />
+  <circle cx="1880" cy="2268" r="15" />
+  <circle cx="2620" cy="2268" r="15" />
+  <circle cx="1325" cy="1816" r="15" />
+  <circle cx="3175" cy="1816" r="15" />
+  <circle cx="1140" cy="1741" r="15" />
+  <circle cx="3360" cy="1741" r="15" />
+  <circle cx="770" cy="1515" r="15" />
+  <circle cx="3730" cy="1515" r="15" />
+  <circle cx="585" cy="1439" r="15" />
+  <circle cx="3915" cy="1439" r="15" />
+  <circle cx="770" cy="1138" r="15" />
+  <circle cx="3730" cy="1138" r="15" />
+  <circle cx="955" cy="1063" r="15" />
+  <circle cx="3545" cy="1063" r="15" />
+  <circle cx="955" cy="987" r="15" />
+  <circle cx="3545" cy="987" r="15" />
+  <circle cx="1695" cy="837" r="15" />
+  <circle cx="2805" cy="837" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#060606" stroke="White" >
+  <circle cx="1880" cy="2419" r="15" />
+  <circle cx="2620" cy="2419" r="15" />
+  <circle cx="1695" cy="2343" r="15" />
+  <circle cx="1880" cy="2343" r="15" />
+  <circle cx="2620" cy="2343" r="15" />
+  <circle cx="2805" cy="2343" r="15" />
+  <circle cx="1510" cy="2268" r="15" />
+  <circle cx="1695" cy="2268" r="15" />
+  <circle cx="2805" cy="2268" r="15" />
+  <circle cx="2990" cy="2268" r="15" />
+  <circle cx="1325" cy="2117" r="15" />
+  <circle cx="3175" cy="2117" r="15" />
+  <circle cx="1325" cy="2042" r="15" />
+  <circle cx="3175" cy="2042" r="15" />
+  <circle cx="1325" cy="1967" r="15" />
+  <circle cx="3175" cy="1967" r="15" />
+  <circle cx="1140" cy="1891" r="15" />
+  <circle cx="1325" cy="1891" r="15" />
+  <circle cx="3175" cy="1891" r="15" />
+  <circle cx="3360" cy="1891" r="15" />
+  <circle cx="1140" cy="1816" r="15" />
+  <circle cx="3360" cy="1816" r="15" />
+  <circle cx="955" cy="1741" r="15" />
+  <circle cx="3545" cy="1741" r="15" />
+  <circle cx="770" cy="1590" r="15" />
+  <circle cx="3730" cy="1590" r="15" />
+  <circle cx="585" cy="1515" r="15" />
+  <circle cx="3915" cy="1515" r="15" />
+  <circle cx="4100" cy="1439" r="15" />
+  <circle cx="585" cy="1138" r="15" />
+  <circle cx="3915" cy="1138" r="15" />
+  <circle cx="770" cy="1063" r="15" />
+  <circle cx="3730" cy="1063" r="15" />
+  <circle cx="770" cy="987" r="15" />
+  <circle cx="3730" cy="987" r="15" />
+  <circle cx="955" cy="912" r="15" />
+  <circle cx="3545" cy="912" r="15" />
+  <circle cx="1325" cy="837" r="15" />
+  <circle cx="1510" cy="837" r="15" />
+  <circle cx="1880" cy="837" r="15" />
+  <circle cx="2065" cy="837" r="15" />
+  <circle cx="2250" cy="837" r="15" />
+  <circle cx="2435" cy="837" r="15" />
+  <circle cx="2620" cy="837" r="15" />
+  <circle cx="2990" cy="837" r="15" />
+  <circle cx="3175" cy="837" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#080808" stroke="White" >
+  <circle cx="2065" cy="2343" r="15" />
+  <circle cx="2435" cy="2343" r="15" />
+  <circle cx="1510" cy="2193" r="15" />
+  <circle cx="1695" cy="2193" r="15" />
+  <circle cx="2805" cy="2193" r="15" />
+  <circle cx="2990" cy="2193" r="15" />
+  <circle cx="1510" cy="2117" r="15" />
+  <circle cx="2990" cy="2117" r="15" />
+  <circle cx="1510" cy="2042" r="15" />
+  <circle cx="2990" cy="2042" r="15" />
+  <circle cx="1510" cy="1967" r="15" />
+  <circle cx="2990" cy="1967" r="15" />
+  <circle cx="1510" cy="1891" r="15" />
+  <circle cx="2990" cy="1891" r="15" />
+  <circle cx="1510" cy="1816" r="15" />
+  <circle cx="2990" cy="1816" r="15" />
+  <circle cx="955" cy="1665" r="15" />
+  <circle cx="3545" cy="1665" r="15" />
+  <circle cx="4100" cy="1364" r="15" />
+  <circle cx="1325" cy="912" r="15" />
+  <circle cx="2250" cy="912" r="15" />
+  <circle cx="3175" cy="912" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#0D0D0D" stroke="White" >
+  <circle cx="2065" cy="2268" r="15" />
+  <circle cx="2435" cy="2268" r="15" />
+  <circle cx="1695" cy="2042" r="15" />
+  <circle cx="2805" cy="2042" r="15" />
+  <circle cx="1140" cy="1665" r="15" />
+  <circle cx="1325" cy="1665" r="15" />
+  <circle cx="3175" cy="1665" r="15" />
+  <circle cx="3360" cy="1665" r="15" />
+  <circle cx="1140" cy="1063" r="15" />
+  <circle cx="3360" cy="1063" r="15" />
+  <circle cx="2250" cy="987" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#090909" stroke="White" >
+  <circle cx="1880" cy="2193" r="15" />
+  <circle cx="2620" cy="2193" r="15" />
+  <circle cx="1325" cy="1741" r="15" />
+  <circle cx="3175" cy="1741" r="15" />
+  <circle cx="955" cy="1590" r="15" />
+  <circle cx="3545" cy="1590" r="15" />
+  <circle cx="955" cy="1515" r="15" />
+  <circle cx="3545" cy="1515" r="15" />
+  <circle cx="770" cy="1439" r="15" />
+  <circle cx="3730" cy="1439" r="15" />
+  <circle cx="585" cy="1213" r="15" />
+  <circle cx="3915" cy="1213" r="15" />
+  <circle cx="2065" cy="912" r="15" />
+  <circle cx="2435" cy="912" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#0F0F0F" stroke="White" >
+  <circle cx="2065" cy="2193" r="15" />
+  <circle cx="2435" cy="2193" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#111111" stroke="White" >
+  <circle cx="1695" cy="2117" r="15" />
+  <circle cx="2805" cy="2117" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#131313" stroke="White" >
+  <circle cx="1880" cy="2117" r="15" />
+  <circle cx="2620" cy="2117" r="15" />
+  <circle cx="770" cy="1213" r="15" />
+  <circle cx="3730" cy="1213" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#242424" stroke="White" >
+  <circle cx="1695" cy="1967" r="15" />
+  <circle cx="2805" cy="1967" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#0C0C0C" stroke="White" >
+  <circle cx="1695" cy="1891" r="15" />
+  <circle cx="2805" cy="1891" r="15" />
+  <circle cx="1510" cy="1741" r="15" />
+  <circle cx="2990" cy="1741" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#0A0A0A" stroke="White" >
+  <circle cx="1695" cy="1816" r="15" />
+  <circle cx="2805" cy="1816" r="15" />
+  <circle cx="585" cy="1364" r="15" />
+  <circle cx="3915" cy="1364" r="15" />
+  <circle cx="4100" cy="1289" r="15" />
+  <circle cx="955" cy="1138" r="15" />
+  <circle cx="3545" cy="1138" r="15" />
+  <circle cx="1510" cy="912" r="15" />
+  <circle cx="2990" cy="912" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#101010" stroke="White" >
+  <circle cx="1880" cy="1816" r="15" />
+  <circle cx="2620" cy="1816" r="15" />
+  <circle cx="1140" cy="987" r="15" />
+  <circle cx="3360" cy="987" r="15" />
+  <circle cx="1140" cy="912" r="15" />
+  <circle cx="1695" cy="912" r="15" />
+  <circle cx="2805" cy="912" r="15" />
+  <circle cx="3360" cy="912" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#191919" stroke="White" >
+  <circle cx="1695" cy="1741" r="15" />
+  <circle cx="2805" cy="1741" r="15" />
+  <circle cx="585" cy="1289" r="15" />
+  <circle cx="3915" cy="1289" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#1B1B1B" stroke="White" >
+  <circle cx="1140" cy="1515" r="15" />
+  <circle cx="3360" cy="1515" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#0B0B0B" stroke="White" >
+  <circle cx="955" cy="1439" r="15" />
+  <circle cx="3545" cy="1439" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#0E0E0E" stroke="White" >
+  <circle cx="955" cy="1213" r="15" />
+  <circle cx="3545" cy="1213" r="15" />
+ </g>
+<desc>Points follow ...</desc>
+<desc>Markers</desc>
+ <g fill="#202020" stroke="White" >
+  <circle cx="1880" cy="912" r="15" />
+  <circle cx="2620" cy="912" r="15" />
+ </g>
+<desc>Key =====</desc>
+<desc>Key - Marker</desc>
+ <g fill="#020202" stroke="White" >
+  <circle cx="523" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#030303" stroke="White" >
+  <circle cx="760" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#040404" stroke="White" >
+  <circle cx="997" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#050505" stroke="White" >
+  <circle cx="1234" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#505050" stroke="White" >
+  <circle cx="1471" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#070707" stroke="White" >
+  <circle cx="1708" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#060606" stroke="White" >
+  <circle cx="1945" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#080808" stroke="White" >
+  <circle cx="2182" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#0D0D0D" stroke="White" >
+  <circle cx="2419" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#090909" stroke="White" >
+  <circle cx="2656" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#0F0F0F" stroke="White" >
+  <circle cx="2938" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#111111" stroke="White" >
+  <circle cx="3220" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#131313" stroke="White" >
+  <circle cx="3502" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#242424" stroke="White" >
+  <circle cx="3784" cy="3005" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#0C0C0C" stroke="White" >
+  <circle cx="523" cy="3124" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#0A0A0A" stroke="White" >
+  <circle cx="805" cy="3124" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#101010" stroke="White" >
+  <circle cx="1087" cy="3124" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#191919" stroke="White" >
+  <circle cx="1369" cy="3124" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#1B1B1B" stroke="White" >
+  <circle cx="1651" cy="3124" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#0B0B0B" stroke="White" >
+  <circle cx="1933" cy="3124" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#0E0E0E" stroke="White" >
+  <circle cx="2215" cy="3124" r="15" />
+ </g>
+<desc>Key - Marker</desc>
+ <g fill="#202020" stroke="White" >
+  <circle cx="2497" cy="3124" r="15" />
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="601" y="3032" >1</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="838" y="3032" >2</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="1075" y="3032" >3</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="1312" y="3032" >4</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="1549" y="3032" >5</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="1786" y="3032" >6</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="2023" y="3032" >7</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="2260" y="3032" >8</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="2497" y="3032" >9</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="2734" y="3032" >10</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="3016" y="3032" >11</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="3298" y="3032" >12</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="3580" y="3032" >13</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="3862" y="3032" >14</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="601" y="3151" >15</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="883" y="3151" >16</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="1165" y="3151" >17</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="1447" y="3151" >18</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="1729" y="3151" >19</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="2011" y="3151" >20</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="2293" y="3151" >21</text>
+ </g>
+ <g fill="Navy" font-family="Times New Roman" font-size="90" >
+  <text x="2575" y="3151" >22</text>
+ </g>
+<desc>Reset to original origin</desc>
+</g>
+</svg>
