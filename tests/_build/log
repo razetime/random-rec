@@ -1,0 +1,5 @@
+# dune init proj helloworld
+# OCAMLPARAM: unset
+# Shared cache: disabled
+# Workspace root: /home/razetime/Documents/Code/fun/random-rec/tests
+# Auto-detected concurrency: 8
