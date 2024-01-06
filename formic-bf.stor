@@ -1,0 +1,20 @@
+#c output#[u8]-input#[u8]-ptr#i32-deque#[u8]
+#c ><+-[].,
+def bf-ops { #u8 60 [ [ #u8 0 rpush swap #i32 1 + swap ] + ]
+  #u8 62 [ [ over #i32 0 = [ 0 lpush ] [ swap #i32 1 - swap ] if ] + ]
+  #u8 43 [ [ over over over over swap get #u8 1 + rot rot swap rot set nip ] + ]
+  #u8 45 [ [ over over over over swap get #u8 1 - rot rot swap rot set nip ]  + ]
+  #u8 91 [ [ ] ]
+  #u8 93 [ [ while ] swap lpush [ over over get u8 0 > ] lpush + ]
+  #u8 46 [ [ over over swap get [ rpush ] swap lpush swap rpush swap rpush swap rpush eval swap rot ] + ]
+  #u8 44 [ [ [ ] swap lpush swap lpush swap lpush swap lpop rot swap rpush eval ] + ] }
+
+def compile-bf ( >vec [ ] swap compile-bf' )
+def compile-bf' ( dup size #i32 0 = [ ] [ lpop bf-ops swap get [ eval ] swap lpush swap rpush eval compile-bf' ] if )
+
+#c input#[u8]-code#Str
+def run-bf ( [ ] rot rot #i32 0 swap [ ] swap compile-bf drop eval ) 
+
+#c Tests:
+[ ] [ ] #i32 0 [ #u8 0 ] [ ] bf-ops #u8 43 get eval eval "Deque must be [ 1 ]" drop
+[ ] [ ] #i32 0 [ #u8 0 ] [ ] bf-ops #u8 45 get eval eval "Deque must be [ 255 ]" drop
